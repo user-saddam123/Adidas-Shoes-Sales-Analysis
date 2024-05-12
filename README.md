@@ -109,12 +109,14 @@ These learnings not only enhance my proficiency in Power BI but also equip me wi
 
 Your feedback is highly appreciated, and I encourage you to like, comment, and provide your insights. Feedback plays a crucial role in my growth, so please feel free to share any suggestions.
 
-Apart from this project, I have also completed over 18 Power BI projects, which you can explore on NovyPro at NovyPro Portfolio
+**Apart from this project, I have also completed over 18 Power BI projects, which you can explore on NovyPro at [ovyPro Portfolio](https://www.novypro.com/profile_projects/saddamansari?Show=showProjects)**
 
 Thank you for taking the time to view my project. I hope you enjoyed it.
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 Created and Analyzed by:
-Saddam Ansari @Aspiring Data Analyst LinkedIn
+
+Saddam Ansari @Aspiring Data Analyst [LinkedIn](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
+
 Location: India
