@@ -34,6 +34,7 @@ Serving as the cornerstone of this dashboard, the "Performance" page offers user
 
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
 ## Detailed Explanation:
 ### 1. Overview Page:
 The "Overview" page, as the name suggests, serves as the initial landing point for users to gain a broad understanding of Adidas shoe sales data. Here's a detailed breakdown of its components:
@@ -53,6 +54,7 @@ To enhance user interaction, the page incorporates interactive elements such as 
 Overall, the "Overview" page combines visually appealing design elements with interactive features to provide users with a seamless and informative exploration of Adidas shoe sales data.
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
 ### 2. Insights Page:
 The Insights Page Dashboard is a supplementary page to the main dashboard, providing users with in-depth information about selected products. It offers a focused view of key metrics such as sales price, average rating, reviews, and listing price. This page allows users to gain deeper insights into specific products and make informed decisions.
 Key Features
@@ -66,6 +68,7 @@ Product Selection: Users can select individual products to view their respective
  * Listing Price: The original listing price of the product.
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
 ### 3. Performance Page:
 The "Performance" page stands as the cornerstone of this project, providing comprehensive insights into the performance of Adidas shoe products. Here's a detailed breakdown of its components:
 
@@ -90,6 +93,7 @@ By presenting these visuals with detailed titles, users can quickly grasp the si
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 
+
 ### Learnings:
 #### Mastery of new Power BI Slicers and Cards:
 Through this project, I've gained proficiency in utilizing Power BI slicers and cards effectively. Notably, I learned how to integrate images within slicers and cards, enhancing the visual appeal and usability of the dashboard. This skill enables me to create more engaging and intuitive user interfaces in future projects, improving the overall user experience.
@@ -102,6 +106,7 @@ Through the implementation of comparative analysis features, such as slicers for
 These learnings not only enhance my proficiency in Power BI but also equip me with valuable skills and insights that can be applied across various data visualization and analysis projects.
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
 Your feedback is highly appreciated, and I encourage you to like, comment, and provide your insights. Feedback plays a crucial role in my growth, so please feel free to share any suggestions.
 
 Apart from this project, I have also completed over 18 Power BI projects, which you can explore on NovyPro at NovyPro Portfolio
@@ -109,6 +114,7 @@ Apart from this project, I have also completed over 18 Power BI projects, which 
 Thank you for taking the time to view my project. I hope you enjoyed it.
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
 Created and Analyzed by:
 Saddam Ansari @Aspiring Data Analyst LinkedIn
 Location: India
